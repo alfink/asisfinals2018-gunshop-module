@@ -1,0 +1,8 @@
+{
+  "manifest_version": 1,
+  "package_name": "de.alfink.ctf.asisfinals2018.gunshop.proxy",
+  "name": "Gunshop Proxy Module",
+  "description": "Built for the Gunshop Challenge in the ASIS CTF 2018 Finals. Leaks the AES key, redirects https to a proxy running on 'proxy:8080', disables certificate checks and custom certificate pinning.",
+  "author": "Alexander Fink <alexander.fink@cispa.saarland>",
+  "version": 1
+}
